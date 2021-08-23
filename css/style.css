@@ -1,0 +1,47 @@
+
+/* .container{
+    border: 3px solid blue;
+    padding: 10px; 
+
+
+} */
+.container-fluid{
+  
+}
+
+.col{
+    border: 3px solid black;
+
+}
+.col-1{
+    border: 3px solid green;
+
+}
+.col-3{
+    border: 3px solid green;
+
+}
+.col-8{
+    border: 3px solid green;
+
+}
+.col-4{
+    border: 3px solid green;
+
+}
+.col-5{
+    border: 3px solid green;
+
+}
+.col-7{
+    border: 3px solid green;
+
+}
+
+.container{
+margin-left: 15px;
+}
+
+.my_navbar{
+    background-color: red;
+}
